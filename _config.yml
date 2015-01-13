@@ -7,16 +7,16 @@ kramdown:
 
 # 作者信息
 author: 
-  name: 闫肃
-  email: suyan0830@gmail.com
-  link: http://yansu.org
-  weibo: http://weibo.com/yansu0711
-  github: http://github.com/suyan
+  name: 孙博
+  email: kingscof@gmail.com
+  link: http://imoon.me
+  weibo: http://weibo.com/kingscof
+  github: https://github.com/kingscof
 
 # 站点信息
-title: 闫肃的博客 
-description: 闫肃的博客
-url: http://yansu.org
+title: 孙博的博客 
+description: 孙博的博客
+url: http://imoon.me
 rss_url: /pages/atom.xml
 
 # gavatar头像及Favicon
@@ -25,12 +25,12 @@ favicon: http://7u2ho6.com1.z0.glb.clouddn.com/favicon.ico
 
 # google analytics 设置
 ga:
-  id: UA-54767140-1
-  url: yansu.org
+  id: UA-33932111-1
+  url: imoon.me
 
 # disqus 设置
 disqus:
-  shortname: suyan-zh
+  shortname: kingscof
 
 # 主题设置，自动激活某个标签
 active: 技术
