@@ -20,8 +20,8 @@ url: http://imoon.me
 rss_url: /pages/atom.xml
 
 # gavatar头像及Favicon
-gavatar: http://7u2ho6.com1.z0.glb.clouddn.com/gavatar.png
-favicon: http://7u2ho6.com1.z0.glb.clouddn.com/favicon.ico
+gavatar: http://en.gravatar.com/userimage/22861507/c99d0be442d75404615623405960d94f.png
+favicon: http://en.gravatar.com/userimage/22861507/c99d0be442d75404615623405960d94f.png
 
 # google analytics 设置
 ga:
